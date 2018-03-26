@@ -2,4 +2,4 @@
 
 ## CODE 
 
-![Alt text](./index.svg)
+![Alt text](./Letters_SVG.svg)
