@@ -4,4 +4,4 @@
 
 This is the code: `![Alt text](./Letters_SVG.svg)`
 
-![Alt text](./Letters_SVG.svg)
+![Alt text](./Letters_SVG.svg){:width="200px"}
